@@ -1,0 +1,11 @@
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\labc201\Desktop\Nueva carpeta\Calculadoract-master\Calculadora\obj\Debug\Calculadora.pdb
